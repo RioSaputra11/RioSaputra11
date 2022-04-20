@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<IMG src="https://telegra.ph/file/6353b0d17150e70a1fb5f.jpg"
+<IMG src="https://telegra.ph/file/6353b0d17150e70a1fb5f.jpg lt="EBOT MD" width="250"/>
