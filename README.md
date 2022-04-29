@@ -1,4 +1,6 @@
-### Hi there I'm rio saputra👋
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rio+%F0%9F%91%8B;I'm+Not+Programing;Cuman+Bisa+Salin+Tempel:v;Jadi+Mohon;Dimaklumi:v;Don't+Forget+Follow" alt="My+Instagram" />
+    </div>
 
 <p align="center">
   <img src="https://telegra.ph/file/6353b0d17150e70a1fb5f.jpg" />
