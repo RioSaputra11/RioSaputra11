@@ -41,4 +41,4 @@
 
 Credit: [Rio Saputra](https://github.com/RioSaputra11)
 
-Last edited on: 30/april/2022
+Last edited on: 30/04/2022
