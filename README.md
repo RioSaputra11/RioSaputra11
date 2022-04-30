@@ -26,7 +26,7 @@
          <p>
                    🏡I live in West Java, Indonesia
          <p>
-                   🏫I am still a student
+                   🏫I am a private student
             <strong>         
     <div align=left>
         <br>
