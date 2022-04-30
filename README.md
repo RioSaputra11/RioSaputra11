@@ -2,16 +2,43 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rio+%F0%9F%91%8B;I'm+Not+Programing;Cuman+Bisa+Salin+Tempel:v;Jadi+Mohon;Dimaklumi:v;Don't+Forget+Follow" alt="My+Instagram" />
     </div>
 
-<p align="center">
-  <img src="https://telegra.ph/file/6353b0d17150e70a1fb5f.jpg" />
-</p>
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rio+%F0%9F%91%8B;I'm+Not+Programing;Cuman+Bisa+Salin+Tempel:v;Jadi+Mohon;Dimaklumi:v;Don't+Forget+Follow" alt="My+Instagram" />
+    </div>
+    <div align=center>
+        <a href="https://instagram.com/riosapuuttrraa_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-0077b5?style=flat&logo=instagram" alt="Instagram" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100033541313788"><img src="https://img.shields.io/badge/Facebook-494949?style=flat&logo=facebook" alt="F" /></a>
+        <a href="https://vt.tiktok.com/ZSdfg2gYQ/"><img src="https://img.shields.io/badge/Tiktok-f48024?style=flat&logo=tiktok=white" alt="Tiktok" /></a>
+        <a href="https://www.wa.me/6282117332347"><img src="https://img.shields.io/badge/Whatsapp-B92B27?style=flat&logo=whatsapp" alt="Whatsapp" /></a>
+      <div align=left>
+        <br>
+        <p>
+             <strong>
+               About me
+    <div align=left>
+        <br>
+        <p>
+                   🙋I'm 17 y.o
+         <p>
+                   🏡I live in West Java, Indonesia
+         <p>
+                   🏫I am still a student
+            <strong>         
+    <div align=left>
+        <br>
+        <p>
+                   Thanks for reading this🙇
+            <strong>
+    
 
-<p align="center">
+  <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
 
-</p>
+Credit: [Rio Saputra](https://github.com/RioSaputra11)
 
-</p>
-<h3 align="left">Follow My Instagram</h3>
-<p align="left"><a href="https://instagram.com/riosapuuttrraa_?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a> Instagram
-</p>
-
+Last edited on: 30/april/2022
